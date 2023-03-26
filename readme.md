@@ -19,7 +19,7 @@ Launch docker selenium grid:
 ```
 Run robot parallel:
 ```
-    pabot --processes 2 --outputdir results tests
+    pabot --processes 2 --outputdir results source/tests
 ```
 Destroy docker selenium grid:
 ```

@@ -1,2 +1,2 @@
-pabot --processes 2 --outputdir results tests
+pabot --processes 2 --outputdir results source/tests
 rm .pabotsuitenames
